@@ -81,7 +81,7 @@ button:active {
 }
 
 .logo {
-    width: 160;
+    width: 20%;
 }
 
 .nav__container {
@@ -209,6 +209,11 @@ header {
 .header__img--wrapper {
     padding: 20px;
     z-index: 50;
+}
+.header__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
